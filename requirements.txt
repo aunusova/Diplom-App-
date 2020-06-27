@@ -1,0 +1,7 @@
+torch
+torchvision
+Flask
+fastai
+opencv-python
+torchvision
+pillow
